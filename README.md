@@ -1,11 +1,7 @@
-**My Python Apps**
-=========================
+# Python ideas database
 
-Este repositorio contiene mis proyectos
-creados en Python.
+A simple python terminal app I made to store your ideas!
 
-Nota: para los programas "idea_vault.py" y "to_do_vault.py" no se han agregado los archivos .txt que se necesitan
-para pasar al ARGV (argument vector) como parametros, se necesitan añadir para que el programa funcione, por seguridad, no incluí los mios ya que contienen información personal, así que se necesitan agregar los archivos .txt
-para pasarlos al ARGV como parametros. Se necesita crear: "idea_db.txt" y "to_do_db.txt" y listo!
+> This was my second python program I made, it's super simple.
 
--Enrique Benitez (hbendev)
+![](https://cl.ly/113X2X3V0u3d/Screen%20Shot%202017-02-16%20at%209.37.42%20PM.png)
